@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<h1>Hi, I am Syafinaz 👋</h1>
+
+<p> My hobbies are baking and watching Netflix. I have two very cute cats.</p>
 
 <!--
 **syafinazshahrinshan/syafinazshahrinshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
