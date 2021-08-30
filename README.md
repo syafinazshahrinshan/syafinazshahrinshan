@@ -1,19 +1,14 @@
 
-<h1>Hi, I am Syafinaz 👋</h1>
+<h1>Hi, I am Syafinaz 🤙</h1>
 
-<p> My hobbies are baking and watching Netflix. I have two very cute cats.</p>
+<h2> Week 1 😄 </h2> 
+<ol>
+  <li> Commited and pushed code for the first time!</li>
+  </ol>
 
-<!--
-**syafinazshahrinshan/syafinazshahrinshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Week 2 😆</h2>
+<ol>
+  <li><strong>Index.html</strong> - Added images, a travel video and some fun facts about me</li>
+    <li><strong>Style.css</strong> - An external CSS file for Index.html</li>
+  
+ </ol>
