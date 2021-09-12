@@ -15,7 +15,7 @@
   
  </ol>
  
- <h2> Week 3 </h2>
+ <h2> Week 3 - 4 </h2>
  <h4> How I feel: 😬</h4>
  <ol>
   <li><strong>Index.html</strong> - Played around with bootstrap and added a Navbar, carousel and jumbotron! Also experimented with grids, rows and columns. Very fun stuff!
