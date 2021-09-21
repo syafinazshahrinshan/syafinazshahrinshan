@@ -21,3 +21,11 @@
   <li><strong>Index.html</strong> - Played around with bootstrap and added a Navbar, carousel and jumbotron! Also experimented with grids, rows and columns. Very fun stuff!
 
   </ol>
+  
+  <h2> Week 5 </h2>
+ <h4> How I feel: 🙃</h4>
+ <ol>
+  <li><strong>Index.html</strong> - Added in the functions, txt-rotate that was defined in script.js file</li>
+  <li><strong>script.jss</strong> - Found a cool javascript text typing animation online.</li>
+
+  </ol>
